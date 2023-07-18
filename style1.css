@@ -1,0 +1,58 @@
+#style-form{
+    height: 600px;
+    width:600px;
+    border: 1px solid black;
+
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: antiquewhite;
+}
+.style-display{
+ 
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+   
+}
+
+#place{
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+   
+}
+#contact{
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+   
+}
+.style-inside
+{
+    height: 30px;
+    width: 250px;
+}
+.style1-inside{
+    height: 40px;
+    width: 540px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.style2-inside{
+    height: 80px;
+    width: 540px;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+#style-button{
+    margin: 30px;
+    height: 30px;
+    width: 100px;
+    background-color: crimson;
+    
+}

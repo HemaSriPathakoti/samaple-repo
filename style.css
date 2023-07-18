@@ -1,0 +1,27 @@
+#style-text
+{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: center;
+
+    /*  overline , underline , line-through*/
+    text-decoration: line-through;
+
+    /* cpitalise, lowercase, uppercase*/
+    text-transform: lowercase;
+
+    text-indent: 50px;
+
+    letter-spacing: 1px;
+    word-spacing: 40px;
+    line-height: 40px;
+
+    font-size: xx-large;
+    font-family: Playfair+Display;
+    font-style: oblique;
+    font-weight: 900;
+
+}
+.style-display{
+    display: inline;
+}
